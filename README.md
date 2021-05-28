@@ -6,4 +6,4 @@ This is project for eduational purposes. It uses API from rapidapi.com which con
 
 Screenshot:
 
-![example01](img/image01.png)
+![example01](./img/image01.png)
